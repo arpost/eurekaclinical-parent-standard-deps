@@ -1,5 +1,7 @@
 # Eureka! Clinical Web Application Parent pom.xml
-[Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
+[Andrew Post](http://www.andrewrpost.com), Salt Lake City, UT
+
+Derived from software previously developed by me and my team at the [Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 # What does it do?
 It is the parent pom used by all Eureka! Clinical web applications. It specifies [eurekaclinical-parent](https://github.com/eurekaclinical/eurekaclinical-parent) as its parent pom. It has a fairly large dependencyManagement section with various dependencies that provide the following functionality:
@@ -43,4 +45,4 @@ Initial release.
 Read the [eurekaclinical-parent](https://github.com/eurekaclinical/eurekaclinical-parent) project's README for instructions. The instructions for that project also apply to this one.
 
 ## Getting help
-Feel free to contact us at help@eurekaclinical.org.
+Feel free to contact the author at andrew.post55@gmail.com.
