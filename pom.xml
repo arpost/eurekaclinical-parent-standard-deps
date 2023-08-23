@@ -12,7 +12,7 @@
     <parent>
         <groupId>org.eurekaclinical</groupId>
         <artifactId>eurekaclinical-parent</artifactId>
-        <version>4-Alpha-9-SNAPSHOT</version>
+        <version>5-Alpha-1-SNAPSHOT</version>
     </parent>
 
     <properties>
